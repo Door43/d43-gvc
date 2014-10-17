@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gvc:home|Door43 (gvc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gvc|d43-gvc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gvc/archive/master.zip|d43-gvc.zip]]
+
+**Recent Changes**
+{{changes>ns = gvc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gvc|Ethnologue data]]
+
